@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hanji He / Site Title"
 title_separator          : "-"
 name                     : &name "Hanji He"
 description              : &description "personal description"
